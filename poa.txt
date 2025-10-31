@@ -20,6 +20,8 @@ Constraints:
       - use Csound 7.0 (if possible)
       - must have some graphical capabilities such as viewing waveforms
       - use AI as a tool when needed but learn the basics of each platform from APIs and documentation
+      - ui tools must be out of the box per technology
+      - standard ide look and feel - scrollable panes / modular panes / etc
 
 Like to have:
       - external MIDI support (from a keyboard)
