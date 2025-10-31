@@ -1,0 +1,28 @@
+This is a plan of action for some coding challenges I would like to consider for the balance of the year.
+
+Background: I really enjoy learning about audio programming. I have recently discovered Csound and like the platform.
+
+Goal: Develop some basic front end editors and simple (IDE) for Csound in various platforms. Don't go crazt, just
+      provide the ability to load, edit, save a csd file or Csound code, execute it, get output from Csound and
+      display to the user. Also of course play the sounds from the CSound.
+
+
+Technologies:
+      - Matlab Interface
+      - Python Interface (TKinter)
+      - Java Interface
+      - C/C++ Interface with simple UI
+      - C/C++ JUCE Interface
+      - Python Interface (Textualize)
+
+Constraints:
+      - must be multiplatform
+      - use Csound 7.0 (if possible)
+      - must have some graphical capabilities such as viewing waveforms
+      - use AI as a tool when needed but learn the basics of each platform from APIs and documentation
+
+Like to have:
+      - external MIDI support (from a keyboard)
+
+Inspiration:
+      - Csound web ide (but would like to expand)
